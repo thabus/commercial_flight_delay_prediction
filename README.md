@@ -44,4 +44,4 @@ To solve this, we built a local ETL script (`preparar_dataset.py`) that handles 
 2. Install the requirements: `pip install pandas pyarrow scikit-learn tensorflow matplotlib seaborn`
 3. Run the ETL pipeline to consolidate the raw data (place your CSVs in the root folder): 
    ```bash
-   python preparar_dataset.py
+   python preparing_dataset.py
